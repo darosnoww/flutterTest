@@ -1,6 +1,6 @@
 # test2
 
-A new Flutter project.
+BOTON + cambio de estado de una imagen x numero de tocadas.
 
 ## Getting Started
 
